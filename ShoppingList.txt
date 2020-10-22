@@ -2,3 +2,4 @@ Shopping List
 Apples
 Oranges
 Bananas
+Eggs
