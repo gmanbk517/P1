@@ -7,3 +7,4 @@ Milk
 Cereal
 OJ
 Butter
+Walnuts
