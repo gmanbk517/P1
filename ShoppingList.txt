@@ -5,3 +5,5 @@ Bananas
 Eggs
 Milk
 Cereal
+OJ
+Butter
